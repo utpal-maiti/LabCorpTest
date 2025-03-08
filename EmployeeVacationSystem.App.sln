@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{9BD0547D-B123-4563-ABD6-4600B32E512D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeVacationSystem.Tests", "EmployeeVacationSystem.Tests\EmployeeVacationSystem.Tests.csproj", "{DBA1DD87-8930-4A30-9CBD-D7608415F9C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{D3FD8A1A-6DA6-4FF7-BF2D-3AC66E297BB2}"
+	ProjectSection(SolutionItems) = preProject
+		EmployeeVacationSystem\Coding Test C sharp Victor.pdf = EmployeeVacationSystem\Coding Test C sharp Victor.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeVacationSystem", "EmployeeVacationSystem\EmployeeVacationSystem.csproj", "{296CB352-712C-0B67-6637-354CB06B8EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA1DD87-8930-4A30-9CBD-D7608415F9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA1DD87-8930-4A30-9CBD-D7608415F9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA1DD87-8930-4A30-9CBD-D7608415F9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA1DD87-8930-4A30-9CBD-D7608415F9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296CB352-712C-0B67-6637-354CB06B8EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296CB352-712C-0B67-6637-354CB06B8EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296CB352-712C-0B67-6637-354CB06B8EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296CB352-712C-0B67-6637-354CB06B8EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DBA1DD87-8930-4A30-9CBD-D7608415F9C5} = {9BD0547D-B123-4563-ABD6-4600B32E512D}
+		{296CB352-712C-0B67-6637-354CB06B8EEF} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {731895FB-107D-4933-8F95-DF201268C2F7}
+	EndGlobalSection
+EndGlobal
